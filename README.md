@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @khalilrez
+- 👀 I’m interested in Learning new technologies, Coding , Graphic Design & Basketball
+- 🌱 I’m currently learning Spring boot / Angular / PostgreSql / MS Azure ...
+- 📫 How to reach me khalilrezgui0@gmail.com
