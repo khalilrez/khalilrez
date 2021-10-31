@@ -61,5 +61,5 @@
 <a href="https://www.khalilrezgui.digital/"><img alt="Website" src="https://img.shields.io/badge/Website-www.khalilrezgui.digital-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/khalil-rezgui"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khalil%20Rezgui%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/khalil_rz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-khalil_rz-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:khalilrezgui0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:khalilrezgui0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khalilrezgui0@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
