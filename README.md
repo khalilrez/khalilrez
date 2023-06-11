@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=khalilrez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.redd.it/v9j8mv57j75b1.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khalilrez&icon=0&color=0)](https://visitcount.itsvg.in)
