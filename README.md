@@ -9,7 +9,7 @@ Software engineer working on data infrastructure, cloud systems, and reliability
 📫 Reach me at khalilrezgui0@gmail.com
 
 Stack I work in most:
-Go · Google Cloud Platform · BigQuery · Airflow · Kubernetes · CI/CD · Terraform · Hashicorp Nomad & Many more
+Go · Google Cloud Platform · BigQuery · Grafana · Prometheus · GrayLog · Bash · Linear · CI/CD · Terraform · Hashicorp Nomad & Many more
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khalilrez&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
